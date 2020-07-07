@@ -77,7 +77,6 @@ if(list[i]<small)
 small=list[i];
 } else {
 small=list[i];
-continue;
 }
 }}
 }
